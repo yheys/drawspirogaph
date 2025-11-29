@@ -11,7 +11,7 @@ def color():
     return rgb
 yhe.speed("fastest")
 for i in range (36):
-    yhe.left(10)
+    yhe.left(11)
     yhe.fd(5)
     yhe.circle(100)
     yhe.color(color())
